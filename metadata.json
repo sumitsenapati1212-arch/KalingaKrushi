@@ -1,0 +1,6 @@
+{
+  "name": "PolySmart – Smart Polyhouse Farming",
+  "description": "Premium multilingual smart polyhouse farming platform for Indian farmers with AI crop disease detection, live mandi rates, cost calculator, and training center.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
